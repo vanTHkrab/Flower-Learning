@@ -1,0 +1,20 @@
+Show output with Attribute
+studentID : 66302040006
+studentName : Chanisara
+studentSurname : kaithai
+studentAge : 19
+----------------------------
+Show output with Method
+Student ID : 66302040006
+Student Name : Chanisara kaithai
+Student Age : 19
+----------------------------
+Show output with Constructor
+Student ID : 66302040101
+Student Name : Somchay Saradee
+student Age : 20
+----------------------------
+Show output with Polymorpism
+Student ID : 66302040102
+Student Name : Somsri Meesok
+Student Age : 20
